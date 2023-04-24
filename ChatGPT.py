@@ -3,7 +3,7 @@ import openai
 # Tutorial en vídeo: https://youtu.be/1Pl1FWHKHXQ
 
 # Genera una API Key desde https://openai.com/api
-openai.api_key = "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"
+openai.api_key = "YOUR_API_KEY"
 
 
 #bienvenida a mi app
