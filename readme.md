@@ -10,12 +10,11 @@ En este documento se explicará cómo consumir la API de ChatGPT utilizando Pyth
 
 Antes de comenzar a utilizar la API de ChatGPT, asegúrese de tener los siguientes requisitos previos instalados en su sistema:
 
-Python 3.x
-pip
-Una cuenta de OpenAI con acceso a la API de ChatGPT
+- Python 3.x
+- pip
+- Una cuenta de OpenAI con acceso a la API de ChatGPT
 
 ## Instalación
-
 
 Para instalar la librería de la API de OpenAI, ejecute el siguiente comando en la terminal:
 
@@ -23,7 +22,7 @@ Para instalar la librería de la API de OpenAI, ejecute el siguiente comando en 
   pip install openai
 ```
 
-## Instalación
+## Pasos
 
 Para consumir la API de ChatGPT, primero debe obtener una clave API de OpenAI. Una vez que tenga su clave API, puede utilizar el siguiente código de ejemplo para conectarse a la API de ChatGPT y generar una respuesta automática a partir de una pregunta:
 
